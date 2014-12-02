@@ -2,8 +2,7 @@
 
 This community maintained list showcases .NET open source consumer projects. It is intended to include projects that are useful for consumers, such as desktop applications, websites, mobile apps, etc.  For developer projects, see the [.NET open source developer projects list](dotnet-developer-projects.md). PR a change into either list and it will be accepted (modulo duplicates). 
 
-Please sort projects alphabetically and provide a one-line description. GitHub/CodePlex (or other source) links are preferred, but feel free to also include marketing sites. Create new sections, as appropriate. 
-
+Please sort projects alphabetically and provide a one-line description. GitHub/CodePlex (or other source) links are preferred, but feel free to also include marketing sites. Create new sections, as
 * Media Streaming
  * [Media Browser](https://github.com/mediabrowser/) - [www.mediabrowser.tv](http://www.mediabrowser.tv) - A client/server application that allows you to easily manage your own media content and present it in an eye catching way. Server runs on Windows, Linux and Mac. Clients are for WP, Android, iOS, Media Centre, Windows, Roku, etc.
 

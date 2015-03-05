@@ -14,7 +14,7 @@ there that could use your help.
 
 There are several projects from Microsoft on GitHub and CodePlex, including:
 
-* [.NET Compiler Platform ("Roslyn")](https://roslyn.codeplex.com)
+d* [.NET Compiler Platform ("Roslyn")](https://roslyn.codeplex.com)
 * [.NET Core 5](https://github.com/dotnet/core)
 * [ASP.NET 5](https://github.com/aspnet/home)
 * [EntityFramework](https://github.com/aspnet/EntityFramework)

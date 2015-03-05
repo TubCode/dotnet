@@ -6,7 +6,7 @@ open source projects from [Microsoft](http://microsoft.github.io) and the
 [.NET Core is Open Source](http://blogs.msdn.com/b/dotnet/archive/2014/11/12/net-core-is-open-source.aspx)
 on the .NET blog.
 
-### Finding .NET Open Source Projects
+#### Finding .NET Open Source Projects
 
 There are many [open source .NET projects](dotnet-developer-projects.md). Check
 out the [list of projects](dotnet-developer-projects.md) the community

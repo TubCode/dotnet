@@ -1,4 +1,4 @@
-# .NET Home
+## .NET Home
 
 The dotnet repository is the starting point to engage in and learn about .NET
 open source projects from [Microsoft](http://microsoft.github.io) and the

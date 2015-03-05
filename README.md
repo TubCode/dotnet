@@ -7,7 +7,6 @@ open source projects from [Microsoft](http://microsoft.github.io) and the
 on the .NET blog.
 
 ## Finding .NET Open Source Projects
-
 There are many [open source .NET projects](dotnet-developer-projects.md). Check
 out the [list of projects](dotnet-developer-projects.md) the community
 maintains. Please find one to engage in or add one. There's certainly one out
